@@ -1,0 +1,26 @@
+{
+  "name": "test-codat-local",
+  "version": "1.0.0",
+  "author": "Testing codat locally",
+  "license": "MIT",
+  "module": "./index.js",
+  "main": "./index.js",
+  "type": "module",
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-router": "^5.3.4",
+    "react-router-dom": "^5.3.4",
+    "rxjs": "^7.5.6",
+    "@codat/orchard-ui": "^27.3.4",
+    "axios-hooks": "^3.1.5",
+    "axios": "^0.27.2",
+    "query-string": "^7.1.1",
+    "classnames": "^2.3.1",
+    "js-cookie": "^3.0.1",
+    "lodash.debounce": "^4.0.8",
+    "lodash.merge": "^4.6.2",
+    "use-debounce": "^6.0.0",
+    "lodash.uniqby": "^4.7.0",
+    "path-to-regexp": "^1.7.0"
+  }
+}
